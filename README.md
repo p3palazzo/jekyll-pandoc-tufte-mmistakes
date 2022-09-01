@@ -1,5 +1,7 @@
 # Jekyll, Pandoc, Tufte CSS, Minimal-Mistakes theme
 
+![Website](https://github.com/p3palazzo/jekyll-pandoc-tufte-mmistakes/workflows/Website/badge.svg)
+
 This is a template repository to build a website using all of the above.
 It provides a Makefile and GitHub Actions for ease of use. No
 guarantees, use at your own risk, etc. (see [LICENSE](LICENSE)).
