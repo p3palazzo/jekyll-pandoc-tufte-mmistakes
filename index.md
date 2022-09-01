@@ -17,3 +17,8 @@ See the
 [GitHub repository](https://github.com/p3palazzo/jekyll-pandoc-tufte-mmistakes)
 for instructions on how to use this template.
 
+For a working example, check out:
+
+- [My personal website](https://palazzo.pt/)
+- [One of my course websites](https://palazzo.arq.br/tau0005/)
+
