@@ -37,17 +37,16 @@ custom Docker image listed above.
 2. Edit [`_data/metadata.yaml`](_data/metadata.yaml) <!--_--> and
    [`_data/crossref.yaml`](_data/crossref.yaml) to match your website's
    language and cross-reference handling.
-3. Edit the
-   [`.github/workflows/build.yaml`](.github/workflows/build.yaml) file
-   to enable automatic generation of your website.
+3. Create `index.md` or `index.html`, pages, posts, and collections as
+   needed.
 4. Test the website by running `make serve` on the command line (known
    to work on MacOS and Linux so far, Windows users let me know if it
    works for you).
 
 ### :warning: Caveat ###
 
-- The `gh-pages` branch must exist on your GitHub repository *before*
-  attempting to build the website.
+- The `gh-pages` branch must exist on your GitHub remote repository
+  *before* attempting to build the website.
 - You must edit the
   [`.github/workflows/build.yaml`](.github/workflows/build.yaml) file
   to include the name of your repository.
